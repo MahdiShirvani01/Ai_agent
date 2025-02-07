@@ -4,12 +4,6 @@
 
 Ghessebot is an AI-powered tool that helps users create personalized stories and e-books for children. Leveraging advanced AI models and Streamlit for an intuitive interface, Ghessebot simplifies the storytelling process.
 ---
-## Images
-Environment of Ghessebot
-![enter a Groq api key](Ghessebot v1.1.1/images/1.png)
-![choose a topic](Ghessebot v1.1.1//images/2.png)
-![generated story](Ghessebot v1.1.1/images/3.png)
-![docx output file](Ghessebot v1.1.1/images/4.png)
 
 ## Features
 
