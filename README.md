@@ -6,7 +6,7 @@ Ghessebot is an AI-powered tool that helps users create personalized stories and
 ---
 ## Images
 Environment of Ghessebot
-![enter a Groq api key](images/1.png)
+![enter a Groq api key](Ghessebot v1.1.1/images/1.png)
 ![choose a topic](images/2.png)
 ![generated story](images/3.png)
 ![docx output file](images/4.png)
