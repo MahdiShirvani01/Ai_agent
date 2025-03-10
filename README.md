@@ -1,5 +1,3 @@
-**Ghessebot**
-
 # Ghessebot
 
 Ghessebot is an AI-powered tool that helps users create personalized stories and e-books for children. Leveraging advanced AI models and Streamlit for an intuitive interface, Ghessebot simplifies the storytelling process.
