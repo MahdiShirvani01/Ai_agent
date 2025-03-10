@@ -1,4 +1,4 @@
-**Ghessebot v1.1.1**
+**Ghessebot**
 
 # Ghessebot
 
